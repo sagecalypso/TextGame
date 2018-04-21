@@ -1,2 +1,18 @@
-console.log("test");
-console.log("does it update?");
+var ascii = [];
+ascii.push({ name: "NAME", lines: [
+        "asdljf",
+        "asdf",
+        "[oi[",
+        "\\[p\\",
+        "[oi[poi"
+    ] });
+ascii.push({ name: "John's Cabin", lines: [
+        "          ^",
+        "         | |",
+        "        |   |",
+        "        |   |",
+        "       |     |",
+        "       ______"
+    ] });
+
+console.log(ascii[0].name);
