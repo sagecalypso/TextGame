@@ -3,7 +3,7 @@ asdljf
 asdf
 [oi[
 \[p\
-[oi[poi
+[oi[po
 SEPARATOR
 John's Cabin
           ^
@@ -11,4 +11,4 @@ John's Cabin
         |   |
         |   |
        |     |
-       ______
+       \_____\

@@ -4,7 +4,7 @@ ascii.push({ name: "NAME", lines: [
         "asdf",
         "[oi[",
         "\\[p\\",
-        "[oi[poi"
+        "[oi[po"
     ] });
 ascii.push({ name: "John's Cabin", lines: [
         "          ^",
@@ -12,7 +12,8 @@ ascii.push({ name: "John's Cabin", lines: [
         "        |   |",
         "        |   |",
         "       |     |",
-        "       ______"
+        "       \\_____\\"
     ] });
 
-console.log(ascii[0].name);
+console.log(ascii[0]);
+console.log(ascii[1]);

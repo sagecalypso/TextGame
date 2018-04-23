@@ -4,11 +4,11 @@ ascii.push({name: "NAME", lines: [
 "asdf",
 "[oi[",
 "\\[p\\",
-"[oi[poi"]});
+"[oi[po"]});
 ascii.push({name: "John's Cabin", lines: [
 "          ^",
 "         | |",
 "        |   |",
 "        |   |",
 "       |     |",
-"       ______"]});
+"       \\_____\\"]});
