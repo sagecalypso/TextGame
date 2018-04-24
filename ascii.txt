@@ -5,10 +5,16 @@ asdf
 \[p\
 [oi[po
 SEPARATOR
-John's Cabin
+John's Large Spire
           ^
          | |
         |   |
         |   |
        |     |
        \_____\
+SEPARATOR
+Tree
+     8888
+   88888888
+      ||
+      ||
